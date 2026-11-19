@@ -1,0 +1,82 @@
+[
+  {
+    "id": "PRD-1001",
+    "name": "Wireless Mouse",
+    "sku": "ACC-001",
+    "category": "Accessories",
+    "price": 18.5,
+    "stock": 42,
+    "reorderLevel": 15,
+    "supplier": "TechSource"
+  },
+  {
+    "id": "PRD-1002",
+    "name": "Mechanical Keyboard",
+    "sku": "ACC-002",
+    "category": "Accessories",
+    "price": 64,
+    "stock": 9,
+    "reorderLevel": 12,
+    "supplier": "TechSource"
+  },
+  {
+    "id": "PRD-1003",
+    "name": "27-inch Monitor",
+    "sku": "DSP-001",
+    "category": "Displays",
+    "price": 229,
+    "stock": 18,
+    "reorderLevel": 8,
+    "supplier": "VisionHub"
+  },
+  {
+    "id": "PRD-1004",
+    "name": "USB-C Docking Station",
+    "sku": "ACC-003",
+    "category": "Accessories",
+    "price": 89,
+    "stock": 6,
+    "reorderLevel": 10,
+    "supplier": "TechSource"
+  },
+  {
+    "id": "PRD-1005",
+    "name": "Laptop Stand",
+    "sku": "OFF-001",
+    "category": "Office",
+    "price": 32,
+    "stock": 31,
+    "reorderLevel": 10,
+    "supplier": "OfficePlus"
+  },
+  {
+    "id": "PRD-1006",
+    "name": "Noise-cancelling Headset",
+    "sku": "AUD-001",
+    "category": "Audio",
+    "price": 119,
+    "stock": 14,
+    "reorderLevel": 10,
+    "supplier": "SoundWorks"
+  },
+  {
+    "id": "PRD-1007",
+    "name": "1080p Webcam",
+    "sku": "ACC-004",
+    "category": "Accessories",
+    "price": 49,
+    "stock": 0,
+    "reorderLevel": 8,
+    "supplier": "VisionHub"
+  },
+  {
+    "id": "PRD-1008",
+    "name": "Portable SSD 1TB",
+    "sku": "STO-001",
+    "category": "Storage",
+    "price": 99,
+    "stock": 23,
+    "reorderLevel": 8,
+    "supplier": "DataGear"
+  }
+]
